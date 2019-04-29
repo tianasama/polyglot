@@ -1,0 +1,20 @@
+{
+  "main.css": "/polyglot/static/css/main.16f52c8f.chunk.css",
+  "main.js": "/polyglot/static/js/main.f27a7edb.chunk.js",
+  "main.js.map": "/polyglot/static/js/main.f27a7edb.chunk.js.map",
+  "runtime~main.js": "/polyglot/static/js/runtime~main.2411d4c6.js",
+  "runtime~main.js.map": "/polyglot/static/js/runtime~main.2411d4c6.js.map",
+  "static/js/2.d57301aa.chunk.js": "/polyglot/static/js/2.d57301aa.chunk.js",
+  "static/js/2.d57301aa.chunk.js.map": "/polyglot/static/js/2.d57301aa.chunk.js.map",
+  "index.html": "/polyglot/index.html",
+  "precache-manifest.02ddc7a19a1d9f2d719280a4ab4f0998.js": "/polyglot/precache-manifest.02ddc7a19a1d9f2d719280a4ab4f0998.js",
+  "service-worker.js": "/polyglot/service-worker.js",
+  "static/css/main.16f52c8f.chunk.css.map": "/polyglot/static/css/main.16f52c8f.chunk.css.map",
+  "static/media/advanced.png": "/polyglot/static/media/advanced.1ad30f0f.png",
+  "static/media/styles.css": "/polyglot/static/media/cloud2-slow.ff19269b.gif",
+  "static/media/difficult.png": "/polyglot/static/media/difficult.57ded46e.png",
+  "static/media/moderate.png": "/polyglot/static/media/moderate.87793b5a.png",
+  "static/media/planet-icon.png": "/polyglot/static/media/planet-icon.fcca8e5e.png",
+  "static/media/title-planet.gif": "/polyglot/static/media/title-planet.f93c69f2.gif",
+  "static/media/world.png": "/polyglot/static/media/world.064f2af4.png"
+}
